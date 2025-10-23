@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Eu sou o Angel Moreira, sou um programador Front End, Atualmente estou aprendendo e criando projetos com: <br>
+
+- HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-Logo"> <br>
+
+- CSS  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-Logo"> <br>
+
+e iniciando o aprendizado em JavaScript e React.
+
 <!--
 **hot1v5/hot1v5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
